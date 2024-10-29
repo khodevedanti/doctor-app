@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858625681812",
+    "project_id": "drug-app-21161",
+    "storage_bucket": "drug-app-21161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858625681812:android:76aa0c35f00f2d36134781",
+        "android_client_info": {
+          "package_name": "com.example.f2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3h0CTXdHQYMOEY5ottIgRMS1DTi_oN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
